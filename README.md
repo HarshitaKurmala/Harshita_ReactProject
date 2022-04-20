@@ -1,2 +1,2 @@
-# Gaurav_ReactProject
+# Harshita_ReactProject
 Graded COding assignment on React. Movie manager app
